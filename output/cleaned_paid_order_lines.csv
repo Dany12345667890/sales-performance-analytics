@@ -1,0 +1,163 @@
+order_id,order_date,customer_id,sales_channel,product_category,product,quantity,unit_price_ngn,unit_cost_ngn,discount_pct,city,order_status,payment_status,net_sales_ngn,estimated_cost_ngn,estimated_gross_profit_ngn,month
+ORD-1001,2026-10-27,CUST-017,WhatsApp,Personal Care,Electric Trimmer,1,16500,9800,0.0,Abuja,Completed,Paid,16500.0,9800,6700.0,2026-10
+ORD-1001,2026-10-27,CUST-002,WhatsApp,Office,A4 Paper Ream,1,8500,6500,0.03,Abuja,Completed,Paid,8245.0,6500,1745.0,2026-10
+ORD-1003,2026-08-15,CUST-047,Instagram,Computer Accessories,Laptop Stand,1,13500,7600,0.08,Lagos,Completed,Paid,12420.0,7600,4820.0,2026-08
+ORD-1004,2026-09-11,CUST-023,Walk-in,Computer Accessories,Laptop Stand,1,13500,7600,0.03,Abuja,Completed,Paid,13095.0,7600,5495.0,2026-09
+ORD-1005,2026-09-30,CUST-067,WhatsApp,Computer Accessories,Wireless Mouse,1,7000,3800,0.1,Lagos,Completed,Paid,6300.0,3800,2500.0,2026-09
+ORD-1005,2026-09-30,CUST-013,WhatsApp,Home,Rechargeable Lamp,1,14500,8200,0.0,Lagos,Completed,Paid,14500.0,8200,6300.0,2026-09
+ORD-1006,2026-08-24,CUST-070,Website,Phone Accessories,Fast Charger,1,8500,4200,0.0,Abuja,Completed,Paid,8500.0,4200,4300.0,2026-08
+ORD-1008,2026-10-15,CUST-008,Website,Personal Care,Electric Trimmer,1,16500,9800,0.0,Port Harcourt,Completed,Paid,16500.0,9800,6700.0,2026-10
+ORD-1009,2026-09-19,CUST-121,Walk-in,Office,A4 Paper Ream,3,8500,6500,0.05,Lagos,Completed,Paid,24225.0,19500,4725.0,2026-09
+ORD-1009,2026-09-19,CUST-003,Walk-in,Personal Care,Blender Bottle,2,4500,2100,0.0,Lagos,Completed,Paid,9000.0,4200,4800.0,2026-09
+ORD-1010,2026-10-09,CUST-012,Instagram,Personal Care,Blender Bottle,3,4500,2100,0.0,Lagos,Completed,Paid,13500.0,6300,7200.0,2026-10
+ORD-1011,2026-07-14,CUST-116,Walk-in,Home,Extension Box,1,6500,3500,0.0,Lagos,Completed,Paid,6500.0,3500,3000.0,2026-07
+ORD-1011,2026-07-14,CUST-085,Walk-in,Phone Accessories,USB-C Cable,1,2500,900,0.0,Lagos,Completed,Paid,2500.0,900,1600.0,2026-07
+ORD-1012,2026-10-23,CUST-096,Website,Office,A4 Paper Ream,3,8500,6500,0.08,Port Harcourt,Completed,Paid,23460.0,19500,3960.0,2026-10
+ORD-1013,2026-07-31,CUST-014,Website,Computer Accessories,Wireless Mouse,1,7000,3800,0.0,Enugu,Completed,Paid,7000.0,3800,3200.0,2026-07
+ORD-1014,2026-07-04,CUST-044,Website,Phone Accessories,Wireless Earbuds,3,18000,10500,0.0,Lagos,Completed,Paid,54000.0,31500,22500.0,2026-07
+ORD-1015,2026-09-10,CUST-049,Referral,Office,A4 Paper Ream,1,8500,6500,0.0,Uyo,Completed,Paid,8500.0,6500,2000.0,2026-09
+ORD-1015,2026-09-10,CUST-096,Referral,Phone Accessories,USB-C Cable,2,2500,900,0.0,Uyo,Completed,Paid,5000.0,1800,3200.0,2026-09
+ORD-1016,2026-10-20,CUST-090,Walk-in,Personal Care,Electric Trimmer,3,16500,9800,0.03,Benin City,Completed,Paid,48015.0,29400,18615.0,2026-10
+ORD-1017,2026-08-05,CUST-029,Walk-in,Computer Accessories,Wireless Mouse,1,7000,3800,0.0,Enugu,Completed,Paid,7000.0,3800,3200.0,2026-08
+ORD-1018,2026-10-21,CUST-053,Walk-in,Personal Care,Electric Trimmer,1,16500,9800,0.0,Enugu,Completed,Paid,16500.0,9800,6700.0,2026-10
+ORD-1018,2026-10-21,CUST-123,Walk-in,Home,Mini Fan,2,12000,7000,0.0,Enugu,Completed,Paid,24000.0,14000,10000.0,2026-10
+ORD-1019,2026-10-28,CUST-036,Website,Computer Accessories,Wireless Mouse,2,7000,3800,0.05,Uyo,Completed,Paid,13300.0,7600,5700.0,2026-10
+ORD-1020,2026-09-27,CUST-016,Website,Home,Mini Fan,1,12000,7000,0.03,Enugu,Completed,Paid,11640.0,7000,4640.0,2026-09
+ORD-1021,2026-08-05,CUST-082,WhatsApp,Home,Rechargeable Lamp,2,14500,8200,0.05,Port Harcourt,Completed,Paid,27550.0,16400,11150.0,2026-08
+ORD-1021,2026-08-05,CUST-011,WhatsApp,Personal Care,Blender Bottle,1,4500,2100,0.1,Port Harcourt,Completed,Paid,4050.0,2100,1950.0,2026-08
+ORD-1022,2026-08-05,CUST-087,Website,Office,A4 Paper Ream,1,8500,6500,0.05,Lagos,Completed,Paid,8075.0,6500,1575.0,2026-08
+ORD-1023,2026-08-16,CUST-024,Walk-in,Phone Accessories,USB-C Cable,3,2500,900,0.08,Lagos,Completed,Paid,6900.0,2700,4200.0,2026-08
+ORD-1023,2026-08-16,CUST-018,Walk-in,Phone Accessories,USB-C Cable,1,2500,900,0.08,Lagos,Completed,Paid,2300.0,900,1400.0,2026-08
+ORD-1024,2026-10-28,CUST-014,Walk-in,Phone Accessories,USB-C Cable,1,2500,900,0.05,Port Harcourt,Completed,Paid,2375.0,900,1475.0,2026-10
+ORD-1024,2026-10-28,CUST-012,Walk-in,Home,Mini Fan,1,12000,7000,0.0,Port Harcourt,Completed,Paid,12000.0,7000,5000.0,2026-10
+ORD-1027,2026-07-27,CUST-061,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.03,Port Harcourt,Completed,Paid,2425.0,900,1525.0,2026-07
+ORD-1028,2026-10-14,CUST-052,WhatsApp,Home,Extension Box,1,6500,3500,0.0,Benin City,Completed,Paid,6500.0,3500,3000.0,2026-10
+ORD-1029,2026-10-14,CUST-118,Website,Personal Care,Electric Trimmer,2,16500,9800,0.0,Benin City,Completed,Paid,33000.0,19600,13400.0,2026-10
+ORD-1032,2026-10-05,CUST-097,WhatsApp,Home,Extension Box,1,6500,3500,0.0,Benin City,Completed,Paid,6500.0,3500,3000.0,2026-10
+ORD-1033,2026-09-05,CUST-064,Instagram,Home,Extension Box,2,6500,3500,0.03,Abuja,Completed,Paid,12610.0,7000,5610.0,2026-09
+ORD-1034,2026-10-25,CUST-101,Referral,Home,Rechargeable Lamp,2,14500,8200,0.05,Port Harcourt,Completed,Paid,27550.0,16400,11150.0,2026-10
+ORD-1035,2026-10-24,CUST-015,WhatsApp,Office,A4 Paper Ream,3,8500,6500,0.0,Port Harcourt,Completed,Paid,25500.0,19500,6000.0,2026-10
+ORD-1035,2026-10-24,CUST-124,WhatsApp,Computer Accessories,Laptop Stand,1,13500,7600,0.0,Port Harcourt,Completed,Paid,13500.0,7600,5900.0,2026-10
+ORD-1036,2026-10-10,CUST-082,WhatsApp,Home,Extension Box,1,6500,3500,0.03,Abuja,Completed,Paid,6305.0,3500,2805.0,2026-10
+ORD-1036,2026-10-10,CUST-118,WhatsApp,Computer Accessories,USB Hub,1,9000,4700,0.0,Abuja,Completed,Paid,9000.0,4700,4300.0,2026-10
+ORD-1036,2026-10-10,CUST-010,WhatsApp,Office,A4 Paper Ream,1,8500,6500,0.08,Abuja,Completed,Paid,7820.0,6500,1320.0,2026-10
+ORD-1038,2026-07-06,CUST-083,Walk-in,Phone Accessories,Wireless Earbuds,2,18000,10500,0.0,Lagos,Completed,Paid,36000.0,21000,15000.0,2026-07
+ORD-1038,2026-07-06,CUST-116,Walk-in,Computer Accessories,Laptop Stand,3,13500,7600,0.05,Lagos,Completed,Paid,38475.0,22800,15675.0,2026-07
+ORD-1039,2026-08-23,CUST-027,WhatsApp,Computer Accessories,Laptop Stand,1,13500,7600,0.0,Benin City,Completed,Paid,13500.0,7600,5900.0,2026-08
+ORD-1041,2026-08-24,CUST-027,Walk-in,Computer Accessories,Laptop Stand,1,13500,7600,0.1,Benin City,Completed,Paid,12150.0,7600,4550.0,2026-08
+ORD-1042,2026-10-16,CUST-009,Walk-in,Phone Accessories,Fast Charger,1,8500,4200,0.0,Lagos,Completed,Paid,8500.0,4200,4300.0,2026-10
+ORD-1043,2026-07-27,CUST-114,Website,Home,Rechargeable Lamp,1,14500,8200,0.08,Benin City,Completed,Paid,13340.0,8200,5140.0,2026-07
+ORD-1044,2026-08-24,CUST-100,WhatsApp,Computer Accessories,Laptop Stand,1,13500,7600,0.0,Port Harcourt,Completed,Paid,13500.0,7600,5900.0,2026-08
+ORD-1045,2026-07-17,CUST-119,Walk-in,Personal Care,Blender Bottle,2,4500,2100,0.0,Port Harcourt,Completed,Paid,9000.0,4200,4800.0,2026-07
+ORD-1046,2026-10-22,CUST-117,Website,Home,Extension Box,1,6500,3500,0.03,Abuja,Completed,Paid,6305.0,3500,2805.0,2026-10
+ORD-1048,2026-10-21,CUST-094,Referral,Office,A4 Paper Ream,1,8500,6500,0.1,Abuja,Completed,Paid,7650.0,6500,1150.0,2026-10
+ORD-1049,2026-09-24,CUST-017,Referral,Office,A4 Paper Ream,1,8500,6500,0.0,Benin City,Completed,Paid,8500.0,6500,2000.0,2026-09
+ORD-1049,2026-09-24,CUST-122,Referral,Computer Accessories,Wireless Mouse,1,7000,3800,0.05,Benin City,Completed,Paid,6650.0,3800,2850.0,2026-09
+ORD-1049,2026-09-24,CUST-073,Referral,Computer Accessories,Laptop Stand,1,13500,7600,0.05,Benin City,Completed,Paid,12825.0,7600,5225.0,2026-09
+ORD-1050,2026-09-18,CUST-020,WhatsApp,Personal Care,Electric Trimmer,2,16500,9800,0.08,Abuja,Completed,Paid,30360.0,19600,10760.0,2026-09
+ORD-1050,2026-09-18,CUST-039,WhatsApp,Phone Accessories,USB-C Cable,2,2500,900,0.1,Abuja,Completed,Paid,4500.0,1800,2700.0,2026-09
+ORD-1051,2026-09-09,CUST-036,Referral,Computer Accessories,USB Hub,2,9000,4700,0.0,Uyo,Completed,Paid,18000.0,9400,8600.0,2026-09
+ORD-1052,2026-07-23,CUST-081,Referral,Home,Rechargeable Lamp,1,14500,8200,0.1,Uyo,Completed,Paid,13050.0,8200,4850.0,2026-07
+ORD-1053,2026-09-06,CUST-063,Referral,Phone Accessories,Wireless Earbuds,4,18000,10500,0.0,Benin City,Completed,Paid,72000.0,42000,30000.0,2026-09
+ORD-1053,2026-09-06,CUST-094,Referral,Office,A4 Paper Ream,1,8500,6500,0.1,Benin City,Completed,Paid,7650.0,6500,1150.0,2026-09
+ORD-1054,2026-08-22,CUST-076,Website,Office,A4 Paper Ream,1,8500,6500,0.0,Port Harcourt,Completed,Paid,8500.0,6500,2000.0,2026-08
+ORD-1055,2026-10-10,CUST-022,WhatsApp,Home,Extension Box,2,6500,3500,0.0,Uyo,Completed,Paid,13000.0,7000,6000.0,2026-10
+ORD-1057,2026-10-18,CUST-021,Walk-in,Phone Accessories,USB-C Cable,2,2500,900,0.1,Enugu,Completed,Paid,4500.0,1800,2700.0,2026-10
+ORD-1058,2026-10-02,CUST-094,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.0,Benin City,Completed,Paid,2500.0,900,1600.0,2026-10
+ORD-1061,2026-08-04,CUST-091,Walk-in,Personal Care,Electric Trimmer,2,16500,9800,0.0,Uyo,Completed,Paid,33000.0,19600,13400.0,2026-08
+ORD-1063,2026-09-26,CUST-104,WhatsApp,Home,Rechargeable Lamp,3,14500,8200,0.0,Lagos,Completed,Paid,43500.0,24600,18900.0,2026-09
+ORD-1065,2026-10-21,CUST-014,WhatsApp,Phone Accessories,USB-C Cable,1,2500,900,0.0,Lagos,Completed,Paid,2500.0,900,1600.0,2026-10
+ORD-1065,2026-10-21,CUST-109,WhatsApp,Phone Accessories,Fast Charger,4,8500,4200,0.0,Lagos,Completed,Paid,34000.0,16800,17200.0,2026-10
+ORD-1066,2026-07-12,CUST-086,Instagram,Phone Accessories,USB-C Cable,2,2500,900,0.05,Benin City,Completed,Paid,4750.0,1800,2950.0,2026-07
+ORD-1067,2026-07-22,CUST-078,Website,Computer Accessories,Laptop Stand,1,13500,7600,0.0,Port Harcourt,Completed,Paid,13500.0,7600,5900.0,2026-07
+ORD-1068,2026-09-13,CUST-023,Instagram,Computer Accessories,Wireless Mouse,2,7000,3800,0.1,Benin City,Completed,Paid,12600.0,7600,5000.0,2026-09
+ORD-1068,2026-09-13,CUST-102,Instagram,Personal Care,Blender Bottle,1,4500,2100,0.0,Benin City,Completed,Paid,4500.0,2100,2400.0,2026-09
+ORD-1070,2026-07-05,CUST-075,Walk-in,Personal Care,Electric Trimmer,3,16500,9800,0.0,Benin City,Completed,Paid,49500.0,29400,20100.0,2026-07
+ORD-1072,2026-07-07,CUST-069,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.0,Lagos,Completed,Paid,2500.0,900,1600.0,2026-07
+ORD-1072,2026-07-07,CUST-096,Instagram,Office,A4 Paper Ream,1,8500,6500,0.08,Lagos,Completed,Paid,7820.0,6500,1320.0,2026-07
+ORD-1077,2026-08-23,CUST-025,Referral,Home,Extension Box,1,6500,3500,0.1,Benin City,Completed,Paid,5850.0,3500,2350.0,2026-08
+ORD-1077,2026-08-23,CUST-059,Referral,Phone Accessories,USB-C Cable,1,2500,900,0.08,Benin City,Completed,Paid,2300.0,900,1400.0,2026-08
+ORD-1079,2026-08-17,CUST-089,Instagram,Home,Mini Fan,1,12000,7000,0.05,Port Harcourt,Completed,Paid,11400.0,7000,4400.0,2026-08
+ORD-1080,2026-07-15,CUST-014,Referral,Office,A4 Paper Ream,1,8500,6500,0.0,Lagos,Completed,Paid,8500.0,6500,2000.0,2026-07
+ORD-1083,2026-07-23,CUST-039,Website,Office,A4 Paper Ream,2,8500,6500,0.0,Enugu,Completed,Paid,17000.0,13000,4000.0,2026-07
+ORD-1084,2026-10-19,CUST-073,Referral,Home,Mini Fan,1,12000,7000,0.08,Benin City,Completed,Paid,11040.0,7000,4040.0,2026-10
+ORD-1086,2026-07-17,CUST-067,Instagram,Personal Care,Electric Trimmer,2,16500,9800,0.08,Port Harcourt,Completed,Paid,30360.0,19600,10760.0,2026-07
+ORD-1088,2026-07-15,CUST-001,WhatsApp,Personal Care,Electric Trimmer,1,16500,9800,0.08,Lagos,Completed,Paid,15180.0,9800,5380.0,2026-07
+ORD-1089,2026-10-20,CUST-088,WhatsApp,Personal Care,Electric Trimmer,2,16500,9800,0.0,Lagos,Completed,Paid,33000.0,19600,13400.0,2026-10
+ORD-1090,2026-07-10,CUST-108,Walk-in,Computer Accessories,USB Hub,2,9000,4700,0.0,Abuja,Completed,Paid,18000.0,9400,8600.0,2026-07
+ORD-1090,2026-07-10,CUST-093,Walk-in,Computer Accessories,Wireless Mouse,1,7000,3800,0.05,Abuja,Completed,Paid,6650.0,3800,2850.0,2026-07
+ORD-1091,2026-10-27,CUST-107,Walk-in,Home,Mini Fan,1,12000,7000,0.0,Abuja,Completed,Paid,12000.0,7000,5000.0,2026-10
+ORD-1092,2026-09-27,CUST-021,Instagram,Office,A4 Paper Ream,2,8500,6500,0.0,Uyo,Completed,Paid,17000.0,13000,4000.0,2026-09
+ORD-1093,2026-07-03,CUST-065,Instagram,Computer Accessories,USB Hub,2,9000,4700,0.0,Enugu,Completed,Paid,18000.0,9400,8600.0,2026-07
+ORD-1094,2026-10-14,CUST-084,Instagram,Home,Mini Fan,1,12000,7000,0.0,Port Harcourt,Completed,Paid,12000.0,7000,5000.0,2026-10
+ORD-1094,2026-10-14,CUST-049,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.0,Port Harcourt,Completed,Paid,2500.0,900,1600.0,2026-10
+ORD-1095,2026-09-04,CUST-098,Instagram,Computer Accessories,Wireless Mouse,1,7000,3800,0.03,Abuja,Completed,Paid,6790.0,3800,2990.0,2026-09
+ORD-1096,2026-10-11,CUST-087,Website,Computer Accessories,Laptop Stand,1,13500,7600,0.05,Benin City,Completed,Paid,12825.0,7600,5225.0,2026-10
+ORD-1098,2026-08-22,CUST-061,WhatsApp,Computer Accessories,USB Hub,1,9000,4700,0.0,Enugu,Completed,Paid,9000.0,4700,4300.0,2026-08
+ORD-1099,2026-07-12,CUST-060,Instagram,Home,Mini Fan,4,12000,7000,0.08,Abuja,Completed,Paid,44160.0,28000,16160.0,2026-07
+ORD-1099,2026-07-12,CUST-115,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.0,Abuja,Completed,Paid,2500.0,900,1600.0,2026-07
+ORD-1101,2026-08-01,CUST-099,Walk-in,Phone Accessories,USB-C Cable,1,2500,900,0.0,Uyo,Completed,Paid,2500.0,900,1600.0,2026-08
+ORD-1102,2026-07-20,CUST-018,WhatsApp,Personal Care,Blender Bottle,1,4500,2100,0.1,Abuja,Completed,Paid,4050.0,2100,1950.0,2026-07
+ORD-1103,2026-10-22,CUST-009,Website,Personal Care,Electric Trimmer,1,16500,9800,0.1,Lagos,Completed,Paid,14850.0,9800,5050.0,2026-10
+ORD-1103,2026-10-22,CUST-039,Website,Phone Accessories,Wireless Earbuds,1,18000,10500,0.1,Lagos,Completed,Paid,16200.0,10500,5700.0,2026-10
+ORD-1105,2026-07-03,CUST-111,Website,Personal Care,Blender Bottle,2,4500,2100,0.0,Lagos,Completed,Paid,9000.0,4200,4800.0,2026-07
+ORD-1105,2026-07-03,CUST-060,Website,Computer Accessories,Wireless Mouse,1,7000,3800,0.1,Lagos,Completed,Paid,6300.0,3800,2500.0,2026-07
+ORD-1107,2026-09-19,CUST-009,Instagram,Home,Extension Box,1,6500,3500,0.03,Abuja,Completed,Paid,6305.0,3500,2805.0,2026-09
+ORD-1107,2026-09-19,CUST-046,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.0,Abuja,Completed,Paid,2500.0,900,1600.0,2026-09
+ORD-1109,2026-08-05,CUST-037,WhatsApp,Personal Care,Electric Trimmer,1,16500,9800,0.1,Port Harcourt,Completed,Paid,14850.0,9800,5050.0,2026-08
+ORD-1111,2026-08-20,CUST-105,Website,Computer Accessories,Wireless Mouse,1,7000,3800,0.0,Enugu,Completed,Paid,7000.0,3800,3200.0,2026-08
+ORD-1111,2026-08-20,CUST-124,Website,Office,A4 Paper Ream,1,8500,6500,0.0,Enugu,Completed,Paid,8500.0,6500,2000.0,2026-08
+ORD-1113,2026-07-07,CUST-066,WhatsApp,Office,A4 Paper Ream,1,8500,6500,0.1,Port Harcourt,Completed,Paid,7650.0,6500,1150.0,2026-07
+ORD-1113,2026-07-07,CUST-109,WhatsApp,Phone Accessories,Wireless Earbuds,1,18000,10500,0.1,Port Harcourt,Completed,Paid,16200.0,10500,5700.0,2026-07
+ORD-1116,2026-10-25,CUST-003,Website,Phone Accessories,Wireless Earbuds,1,18000,10500,0.03,Enugu,Completed,Paid,17460.0,10500,6960.0,2026-10
+ORD-1117,2026-08-31,CUST-086,Instagram,Personal Care,Electric Trimmer,1,16500,9800,0.05,Benin City,Completed,Paid,15675.0,9800,5875.0,2026-08
+ORD-1117,2026-08-31,CUST-047,Instagram,Home,Extension Box,1,6500,3500,0.0,Benin City,Completed,Paid,6500.0,3500,3000.0,2026-08
+ORD-1118,2026-08-02,CUST-028,Website,Phone Accessories,Fast Charger,1,8500,4200,0.0,Abuja,Completed,Paid,8500.0,4200,4300.0,2026-08
+ORD-1119,2026-07-13,CUST-015,Instagram,Computer Accessories,Laptop Stand,1,13500,7600,0.0,Benin City,Completed,Paid,13500.0,7600,5900.0,2026-07
+ORD-1119,2026-07-13,CUST-019,Instagram,Office,A4 Paper Ream,2,8500,6500,0.08,Benin City,Completed,Paid,15640.0,13000,2640.0,2026-07
+ORD-1120,2026-08-10,CUST-002,WhatsApp,Home,Mini Fan,1,12000,7000,0.05,Uyo,Completed,Paid,11400.0,7000,4400.0,2026-08
+ORD-1120,2026-08-10,CUST-002,WhatsApp,Office,A4 Paper Ream,1,8500,6500,0.03,Uyo,Completed,Paid,8245.0,6500,1745.0,2026-08
+ORD-1121,2026-10-27,CUST-008,Walk-in,Personal Care,Blender Bottle,1,4500,2100,0.1,Lagos,Completed,Paid,4050.0,2100,1950.0,2026-10
+ORD-1122,2026-07-10,CUST-039,Referral,Home,Rechargeable Lamp,1,14500,8200,0.0,Uyo,Completed,Paid,14500.0,8200,6300.0,2026-07
+ORD-1123,2026-08-06,CUST-077,WhatsApp,Personal Care,Electric Trimmer,2,16500,9800,0.05,Benin City,Completed,Paid,31350.0,19600,11750.0,2026-08
+ORD-1123,2026-08-06,CUST-061,WhatsApp,Phone Accessories,Wireless Earbuds,2,18000,10500,0.05,Benin City,Completed,Paid,34200.0,21000,13200.0,2026-08
+ORD-1125,2026-07-10,CUST-020,Walk-in,Personal Care,Blender Bottle,1,4500,2100,0.0,Enugu,Completed,Paid,4500.0,2100,2400.0,2026-07
+ORD-1126,2026-09-22,CUST-087,WhatsApp,Phone Accessories,USB-C Cable,1,2500,900,0.0,Port Harcourt,Completed,Paid,2500.0,900,1600.0,2026-09
+ORD-1127,2026-09-12,CUST-117,Instagram,Office,A4 Paper Ream,1,8500,6500,0.1,Lagos,Completed,Paid,7650.0,6500,1150.0,2026-09
+ORD-1130,2026-10-18,CUST-062,Instagram,Personal Care,Blender Bottle,2,4500,2100,0.0,Enugu,Completed,Paid,9000.0,4200,4800.0,2026-10
+ORD-1130,2026-10-18,CUST-069,Instagram,Personal Care,Electric Trimmer,1,16500,9800,0.0,Enugu,Completed,Paid,16500.0,9800,6700.0,2026-10
+ORD-1131,2026-07-20,CUST-098,Website,Office,A4 Paper Ream,1,8500,6500,0.0,Benin City,Completed,Paid,8500.0,6500,2000.0,2026-07
+ORD-1131,2026-07-20,CUST-031,Website,Personal Care,Electric Trimmer,1,16500,9800,0.03,Benin City,Completed,Paid,16005.0,9800,6205.0,2026-07
+ORD-1132,2026-08-02,CUST-012,Website,Phone Accessories,USB-C Cable,1,2500,900,0.08,Benin City,Completed,Paid,2300.0,900,1400.0,2026-08
+ORD-1132,2026-08-02,CUST-110,Website,Personal Care,Blender Bottle,1,4500,2100,0.0,Benin City,Completed,Paid,4500.0,2100,2400.0,2026-08
+ORD-1133,2026-07-22,CUST-113,WhatsApp,Phone Accessories,USB-C Cable,4,2500,900,0.05,Port Harcourt,Completed,Paid,9500.0,3600,5900.0,2026-07
+ORD-1133,2026-07-22,CUST-014,WhatsApp,Computer Accessories,Wireless Mouse,1,7000,3800,0.0,Port Harcourt,Completed,Paid,7000.0,3800,3200.0,2026-07
+ORD-1135,2026-08-04,CUST-065,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.05,Port Harcourt,Completed,Paid,2375.0,900,1475.0,2026-08
+ORD-1136,2026-09-03,CUST-079,Instagram,Personal Care,Blender Bottle,1,4500,2100,0.05,Abuja,Completed,Paid,4275.0,2100,2175.0,2026-09
+ORD-1136,2026-09-03,CUST-103,Instagram,Personal Care,Electric Trimmer,1,16500,9800,0.08,Abuja,Completed,Paid,15180.0,9800,5380.0,2026-09
+ORD-1139,2026-09-03,CUST-070,Instagram,Home,Extension Box,3,6500,3500,0.08,Lagos,Completed,Paid,17940.0,10500,7440.0,2026-09
+ORD-1139,2026-09-03,CUST-038,Instagram,Personal Care,Blender Bottle,2,4500,2100,0.0,Lagos,Completed,Paid,9000.0,4200,4800.0,2026-09
+ORD-1141,2026-08-23,CUST-097,Instagram,Computer Accessories,Laptop Stand,1,13500,7600,0.0,Port Harcourt,Completed,Paid,13500.0,7600,5900.0,2026-08
+ORD-1141,2026-08-23,CUST-068,Instagram,Computer Accessories,Laptop Stand,1,13500,7600,0.03,Port Harcourt,Completed,Paid,13095.0,7600,5495.0,2026-08
+ORD-1143,2026-08-11,CUST-052,Walk-in,Home,Mini Fan,2,12000,7000,0.0,Lagos,Completed,Paid,24000.0,14000,10000.0,2026-08
+ORD-1145,2026-08-12,CUST-108,Instagram,Phone Accessories,USB-C Cable,1,2500,900,0.0,Port Harcourt,Completed,Paid,2500.0,900,1600.0,2026-08
+ORD-1145,2026-08-12,CUST-090,Instagram,Home,Extension Box,2,6500,3500,0.1,Port Harcourt,Completed,Paid,11700.0,7000,4700.0,2026-08
+ORD-1146,2026-10-19,CUST-062,Referral,Home,Rechargeable Lamp,1,14500,8200,0.03,Lagos,Completed,Paid,14065.0,8200,5865.0,2026-10
+ORD-1147,2026-09-09,CUST-033,Walk-in,Home,Mini Fan,1,12000,7000,0.03,Port Harcourt,Completed,Paid,11640.0,7000,4640.0,2026-09
+ORD-1148,2026-10-06,CUST-125,WhatsApp,Computer Accessories,Wireless Mouse,2,7000,3800,0.08,Abuja,Completed,Paid,12880.0,7600,5280.0,2026-10
+ORD-1148,2026-10-06,CUST-100,WhatsApp,Home,Extension Box,2,6500,3500,0.0,Abuja,Completed,Paid,13000.0,7000,6000.0,2026-10
+ORD-1149,2026-09-27,CUST-113,Website,Home,Rechargeable Lamp,1,14500,8200,0.1,Uyo,Completed,Paid,13050.0,8200,4850.0,2026-09
+ORD-1149,2026-09-27,CUST-042,Website,Office,A4 Paper Ream,1,8500,6500,0.1,Uyo,Completed,Paid,7650.0,6500,1150.0,2026-09
+ORD-1149,2026-09-27,CUST-056,Website,Phone Accessories,USB-C Cable,2,2500,900,0.0,Uyo,Completed,Paid,5000.0,1800,3200.0,2026-09
+ORD-1150,2026-09-02,CUST-052,WhatsApp,Computer Accessories,USB Hub,1,9000,4700,0.05,Enugu,Completed,Paid,8550.0,4700,3850.0,2026-09
+ORD-1150,2026-09-02,CUST-013,WhatsApp,Phone Accessories,Fast Charger,2,8500,4200,0.05,Enugu,Completed,Paid,16150.0,8400,7750.0,2026-09
+ORD-1150,2026-09-02,CUST-034,WhatsApp,Computer Accessories,Laptop Stand,1,13500,7600,0.1,Enugu,Completed,Paid,12150.0,7600,4550.0,2026-09
+ORD-1151,2026-08-09,CUST-038,Walk-in,Computer Accessories,Laptop Stand,3,13500,7600,0.0,Port Harcourt,Completed,Paid,40500.0,22800,17700.0,2026-08
+ORD-1154,2026-07-29,CUST-037,WhatsApp,Home,Extension Box,1,6500,3500,0.08,Uyo,Completed,Paid,5980.0,3500,2480.0,2026-07
+ORD-1155,2026-10-28,CUST-015,Instagram,Personal Care,Blender Bottle,1,4500,2100,0.08,Abuja,Completed,Paid,4140.0,2100,2040.0,2026-10
+ORD-1156,2026-09-23,CUST-091,WhatsApp,Phone Accessories,Wireless Earbuds,2,18000,10500,0.05,Abuja,Completed,Paid,34200.0,21000,13200.0,2026-09
+ORD-1156,2026-09-23,CUST-008,WhatsApp,Personal Care,Blender Bottle,1,4500,2100,0.0,Abuja,Completed,Paid,4500.0,2100,2400.0,2026-09
+ORD-1159,2026-09-25,CUST-044,WhatsApp,Personal Care,Electric Trimmer,1,16500,9800,0.08,Enugu,Completed,Paid,15180.0,9800,5380.0,2026-09
+ORD-1159,2026-09-25,CUST-033,WhatsApp,Computer Accessories,Laptop Stand,1,13500,7600,0.05,Enugu,Completed,Paid,12825.0,7600,5225.0,2026-09
+ORD-1160,2026-07-27,CUST-043,Instagram,Computer Accessories,Laptop Stand,1,13500,7600,0.08,Abuja,Completed,Paid,12420.0,7600,4820.0,2026-07
+ORD-1160,2026-07-27,CUST-007,Instagram,Personal Care,Blender Bottle,1,4500,2100,0.05,Abuja,Completed,Paid,4275.0,2100,2175.0,2026-07

@@ -1,0 +1,13 @@
+product_category,product,revenue_ngn,estimated_gross_profit_ngn,units_sold,unique_orders
+Personal Care,Electric Trimmer,461505.0,177305.0,29,19
+Phone Accessories,Wireless Earbuds,280260.0,112260.0,16,8
+Computer Accessories,Laptop Stand,273780.0,114180.0,21,16
+Office,A4 Paper Ream,252280.0,50780.0,31,22
+Home,Mini Fan,185280.0,73280.0,16,11
+Home,Rechargeable Lamp,181105.0,74505.0,13,9
+Home,Extension Box,124995.0,54995.0,20,14
+Personal Care,Blender Bottle,101340.0,53040.0,23,16
+Computer Accessories,Wireless Mouse,99470.0,42470.0,15,12
+Computer Accessories,USB Hub,80550.0,38250.0,9,6
+Phone Accessories,USB-C Cable,79225.0,49525.0,33,22
+Phone Accessories,Fast Charger,75650.0,37850.0,9,5

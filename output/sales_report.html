@@ -1,0 +1,186 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sales Clarity Demo</title><style>body{font:16px/1.5 Arial,sans-serif;max-width:1100px;margin:32px auto;padding:0 18px;color:#172033;background:#f7f8fa}h1,h2{line-height:1.2}.note{background:#fff4d6;padding:12px 16px;border-radius:8px}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}.card{background:white;padding:18px;border-radius:12px;box-shadow:0 2px 10px #10182810}.number{font-size:25px;font-weight:700}section{background:white;margin:18px 0;padding:18px;border-radius:12px;overflow-x:auto}img{max-width:100%;height:auto}table{border-collapse:collapse;width:100%;font-size:14px}th,td{padding:8px;border-bottom:1px solid #e5e7eb;text-align:left}th{background:#eef2f7}small{color:#5b6474}</style></head><body>
+<h1>Sales Clarity: Sales Performance Report</h1><p class="note"><b>Demo disclaimer:</b> this report uses synthetic sample data for portfolio demonstration. Figures are not results from a real client.</p>
+<div class="cards"><div class="card"><small>Paid revenue</small><div class="number">₦2,195,440</div></div><div class="card"><small>Completed, paid orders</small><div class="number">113</div></div><div class="card"><small>Average order value</small><div class="number">₦19,429</div></div><div class="card"><small>Estimated gross margin</small><div class="number">40.0%</div></div></div>
+<section><h2>Monthly trend</h2><img src="monthly_revenue.png" alt="Paid sales revenue by month"><h3>Monthly details</h3><table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>month</th>
+      <th>revenue_ngn</th>
+      <th>estimated_gross_profit_ngn</th>
+      <th>unique_orders</th>
+      <th>units_sold</th>
+      <th>average_order_value_ngn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026-07</td>
+      <td>575,730.00</td>
+      <td>229,230.00</td>
+      <td>29</td>
+      <td>61</td>
+      <td>19,852.76</td>
+    </tr>
+    <tr>
+      <td>2026-08</td>
+      <td>449,185.00</td>
+      <td>183,585.00</td>
+      <td>27</td>
+      <td>47</td>
+      <td>16,636.48</td>
+    </tr>
+    <tr>
+      <td>2026-09</td>
+      <td>555,990.00</td>
+      <td>218,990.00</td>
+      <td>24</td>
+      <td>62</td>
+      <td>23,166.25</td>
+    </tr>
+    <tr>
+      <td>2026-10</td>
+      <td>614,535.00</td>
+      <td>246,635.00</td>
+      <td>33</td>
+      <td>65</td>
+      <td>18,622.27</td>
+    </tr>
+  </tbody>
+</table></section>
+<section><h2>Top products</h2><img src="top_products.png" alt="Top products by paid revenue"><h3>Top 10 product table</h3><table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>product_category</th>
+      <th>product</th>
+      <th>revenue_ngn</th>
+      <th>estimated_gross_profit_ngn</th>
+      <th>units_sold</th>
+      <th>unique_orders</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Personal Care</td>
+      <td>Electric Trimmer</td>
+      <td>461,505.00</td>
+      <td>177,305.00</td>
+      <td>29</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>Phone Accessories</td>
+      <td>Wireless Earbuds</td>
+      <td>280,260.00</td>
+      <td>112,260.00</td>
+      <td>16</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Computer Accessories</td>
+      <td>Laptop Stand</td>
+      <td>273,780.00</td>
+      <td>114,180.00</td>
+      <td>21</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>Office</td>
+      <td>A4 Paper Ream</td>
+      <td>252,280.00</td>
+      <td>50,780.00</td>
+      <td>31</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Home</td>
+      <td>Mini Fan</td>
+      <td>185,280.00</td>
+      <td>73,280.00</td>
+      <td>16</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Home</td>
+      <td>Rechargeable Lamp</td>
+      <td>181,105.00</td>
+      <td>74,505.00</td>
+      <td>13</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Home</td>
+      <td>Extension Box</td>
+      <td>124,995.00</td>
+      <td>54,995.00</td>
+      <td>20</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>Personal Care</td>
+      <td>Blender Bottle</td>
+      <td>101,340.00</td>
+      <td>53,040.00</td>
+      <td>23</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>Computer Accessories</td>
+      <td>Wireless Mouse</td>
+      <td>99,470.00</td>
+      <td>42,470.00</td>
+      <td>15</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>Computer Accessories</td>
+      <td>USB Hub</td>
+      <td>80,550.00</td>
+      <td>38,250.00</td>
+      <td>9</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table></section>
+<section><h2>Sales channel performance</h2><table class="dataframe data">
+  <thead>
+    <tr style="text-align: right;">
+      <th>sales_channel</th>
+      <th>revenue_ngn</th>
+      <th>unique_orders</th>
+      <th>units_sold</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>WhatsApp</td>
+      <td>646,670.00</td>
+      <td>28</td>
+      <td>66</td>
+    </tr>
+    <tr>
+      <td>Walk-in</td>
+      <td>489,375.00</td>
+      <td>23</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Instagram</td>
+      <td>424,005.00</td>
+      <td>27</td>
+      <td>57</td>
+    </tr>
+    <tr>
+      <td>Website</td>
+      <td>391,760.00</td>
+      <td>23</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td>Referral</td>
+      <td>243,630.00</td>
+      <td>12</td>
+      <td>23</td>
+    </tr>
+  </tbody>
+</table></section><section><h2>Management observations</h2><ul><li>Highest-revenue product in this sample: <b>Electric Trimmer</b> (₦461,505).</li><li>Highest-revenue channel in this sample: <b>WhatsApp</b> (₦646,670).</li><li>Highest-revenue month in this sample: <b>2026-10</b> (₦614,535).</li><li>Estimated gross profit excludes overhead, delivery, tax, payment fees and other unrecorded costs.</li></ul></section>
+<p><small>Raw rows: 230. Duplicate rows removed: 1. Rows removed for missing/invalid required fields: 1. Rows removed for invalid numeric values: 1. Cleaned rows: 227. Paid order lines included in headline KPIs: 162. Currency: NGN. Built with Python and pandas.</small></p></body></html>
